@@ -42,13 +42,3 @@ Nées après 2008 dans le sillage de Bâle III, les obligations convertibles con
 - Une CoCo se valorise comme **une obligation + une option sur la survie de la banque**, mais le risque discrétionnaire du régulateur n'est pas modélisable.
 - Les CoCos permettent de respecter les exigences de fonds propres **à moindre coût que le CET1**, ce qui crée un aléa moral structurel.
 
----
-
-## ⚖️ Licence et utilisation
-
-Ces documents sont partagés à des fins **pédagogiques**. Tu peux les lire, les citer et t'en inspirer, à condition de **citer la source**. Ne les reprends pas tels quels dans un travail noté : ce serait du plagiat.
-
-Licence : [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) (attribution, pas d'usage commercial, pas de modification).
-
-**Pour citer :**
-> Lochet, D. (2026). *Les CoCos AT1 : un instrument efficace de stabilité financière ou un outil d'optimisation bilancielle ?* Mémoire de Master 1 Économie et Finance, Université Paris Dauphine – PSL.
