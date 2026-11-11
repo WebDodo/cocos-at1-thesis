@@ -13,7 +13,6 @@ Auteur : Doryan Lochet
 |---|---|
 | [`Cocos_Doryan_Lochet.pdf`](./Cocos_Doryan_Lochet.pdf) | Le mémoire complet (44 pages) |
 | [`Les_CoCos_AT1.pdf`](./Les_CoCos_AT1.pdf) | Les slides de soutenance (13 slides) |
-| [`Fiches_Soutenance_CoCos_Lochet.pdf`](./Fiches_Soutenance_CoCos_Lochet.pdf) | Les fiches de révision : messages clés, formules et phrases à retenir par partie |
 
 > 💡 Pour une vue d'ensemble rapide, commence par les **slides**, puis les **fiches** ; le **mémoire** sert à creuser un point.
 
